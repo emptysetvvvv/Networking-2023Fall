@@ -43,5 +43,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/stop_wait.dir/DependInfo.cmake"
+  "CMakeFiles/go_back_n.dir/DependInfo.cmake"
   )

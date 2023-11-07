@@ -18,8 +18,8 @@ int main(int argc, char* argv[])
 	pns->init();
 	pns->setRtdSender(ps);
 	pns->setRtdReceiver(pr);
-	pns->setInputFile("/home/emptyset/RDT/StopWait/input.txt");
-	pns->setOutputFile("/home/emptyset/RDT/StopWait/ouput.txt");
+	pns->setInputFile("/home/emptyset/NetworkLab/RDT/StopWait/input.txt");
+	pns->setOutputFile("/home/emptyset/NetworkLab/RDT/StopWait/input.txt");
 
 	pns->start();
 

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/emptyset/RDT/StopWait/include
+CXX_INCLUDES = -I/home/emptyset/NetworkLab/RDT/StopWait/include
 
 CXX_FLAGS =   -std=c++11
 

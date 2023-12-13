@@ -1,0 +1,3 @@
+/Users/emptyset/Projects/NetworkLab/Socket/cmake-build-debug/CMakeFiles/Socket.dir
+/Users/emptyset/Projects/NetworkLab/Socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emptyset/Projects/NetworkLab/Socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
